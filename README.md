@@ -5,11 +5,6 @@
 <br clear="both">
 
 <p align="center">Passionate Front-End Developer Seeking To Be Full-Stack Developer</p>
-
-###
-
-<br clear="both">
-
 <h1 align="center">👨‍💻</h1>
 
 ###
