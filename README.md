@@ -8,9 +8,12 @@
   <img src="https://profile-counter.glitch.me/iamahmedsalah/count.svg?"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamahmedsalah&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamahmedsalah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <div align="center">
+  <img height="200" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
+</div>
+
 </div>
 
 <div align="center">
@@ -51,7 +54,4 @@
 <p align="center">Currently learning next js and increase knowledge base in react js</p>
 
 
-<div align="center">
-  <img height="200" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
-</div>
 
