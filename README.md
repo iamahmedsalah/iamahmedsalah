@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamahmedsalah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
    <img height="150" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"  />
 </div>
-
+<br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
 </div>
-
+<br clear="both">
 <div align="center">
   <a href="https://www.linkedin.com/in/iamahmedsoliman/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
+<br clear="both">
 <p align="center">Currently learning next js and increase knowledge base in react js</p>
 
 
