@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi 👋, I'm Ahmed Salah (Ahmed Soliman)</h2>
 <br clear="both">
-<p align="center">Passionate Front-End Developer Seeking To Be Full-Stack Developer</p>
+<p align="center">Passionate Developer Seeking To Be Full-Stack Developer</p>
 <h1 align="center">👨‍💻</h1>
 
 <div align="center">
