@@ -4,25 +4,42 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  I am a passionate developer seeking to become a Full-Stack Developer. I love building web applications and learning new technologies.
-  <br>
-  Currently focusing on <b>Next.js</b> and deepening my knowledge in <b>React.js</b>.
-</p>
+<h2 align="center"> <img  align="center" src="https://cdn-icons-png.flaticon.com/512/5097/5097209.png" width="30" /> About Me</h2>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+
+```javascript
+const ahmed = {
+    pronouns: "He" | "Him",
+    role: "Full Stack Developer",
+    location: "Egypt 🇪🇬",
+    currentFocus: ["Next.js", "React.js", "TypeScript"],
+    learning: ["System Design", "Cloud Architecture"],
+    hobbies: ["Coding", "Problem Solving", "Tech Exploration"],
+    motto: "Code. Learn. Repeat. 🔁"
+};
+```
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" />  Tech Stack</h2>
+
+<h3 align="center">💻 Frontend</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,materialui" alt="Frontend Skills" />
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,vite,bun,git,github" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,materialui,vite" alt="Frontend" />
 </div>
 
-<h2 align="center">🔥 GitHub Stats</h2>
+<h3 align="center">⚙️ Backend & Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" alt="Backend & DB" />
+</div>
+
+<h3 align="center">🛠️ Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bun" alt="Tools" />
+</div>
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"  > GitHub Stats</h2>
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamahmedsalah&theme=dark&hide_border=true&background=0d1117" alt="streak stats" />
