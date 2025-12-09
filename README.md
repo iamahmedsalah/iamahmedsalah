@@ -42,7 +42,6 @@ const ahmed = {
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Stats</h2>
 <div align="center">
   <br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamahmedsalah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=iamahmedsalah&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
