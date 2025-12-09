@@ -39,10 +39,15 @@ const ahmed = {
   <img src="https://skillicons.dev/icons?i=git,github,bun" alt="Tools" />
 </div>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"  > GitHub Stats</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Stats</h2>
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamahmedsalah&theme=dark&hide_border=true&background=0d1117" alt="streak stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamahmedsalah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=iamahmedsalah&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahmedsalah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <h2 align="center">📫 Connect with Me</h2>
