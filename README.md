@@ -46,9 +46,6 @@ const ahmed = {
   <img width="49%" src="https://streak-stats.demolab.com/?user=iamahmedsalah&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahmedsalah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
