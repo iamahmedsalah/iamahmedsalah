@@ -26,17 +26,17 @@ const ahmed = {
 
 <h3 align="center">💻 Frontend</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,materialui,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel,bootstrap,tailwind,materialui,vite,figma" alt="Frontend" />
 </div>
 
 <h3 align="center">⚙️ Backend & Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,redux" alt="Backend & DB" />
 </div>
 
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bun" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,bun,docker,postman,jest" alt="Tools" />
 </div>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Stats</h2>
